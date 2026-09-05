@@ -17,7 +17,7 @@ You decide that your app will have 3 buttons, each with a different probability 
 - Your **Student ID Number AND CCID indicated clearly** somewhere on your app
 
 ## Submission Specification
-- LICENSE your assignment with an opensource license. Add a LICENSE.md file to the root of the directory the assignment, that contains an opensource license that will be used for the project.
+- LICENSE your assignment with an opensource license. Add a LICENSE.md file to the root directory of the assignment that contains an opensource license that will be used for the assignment.
   - Apache 2.0 or GPL 3.0 or AGPL 3.0 are recommended
 - Once you finish making the decision-making app, **screen-record a video, no longer than 1 minute**, showcasing the actions in the following order:
 1. Click the 1st button 6 times
